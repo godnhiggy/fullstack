@@ -1,2 +1,2 @@
 # fullstack
-tarvr building a lesson center for computer science
+tarver building a lesson center for computer science
